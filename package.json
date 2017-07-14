@@ -1,0 +1,24 @@
+{
+  "name": "helib",
+  "version": "0.0.1",
+  "description": "A wrapper for HElib.",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/talrasha007/node-helib.git"
+  },
+  "keywords": [
+    "HElib",
+    "Homomorphic encryption"
+  ],
+  "author": "Tal Rasha",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/talrasha007/node-helib/issues"
+  },
+  "homepage": "https://github.com/talrasha007/node-helib#readme",
+  "dependencies": {
+    "nan": "^2.6.2",
+    "nnu": "0.1.5"
+  }
+}
